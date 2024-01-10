@@ -10,7 +10,7 @@ reservation
 
 application properties is used for configuration of application as it contains database connections configuration, emails configuration, url configuration and port number of tomcat
 
-index.html should be under webapp and all other jsp files should be under jsp folder
+index.html should be under webapp and all other jsp files should be under jsps folder
 
 steps to create application:-
 1.create database table
