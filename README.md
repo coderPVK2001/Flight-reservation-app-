@@ -22,5 +22,6 @@ steps to create application:-
 7.create service layer
 8.create utilities layer for:-
   writing email code and pdf code
+9. create view layer :- consists of jsp and html pages
 
 
